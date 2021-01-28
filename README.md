@@ -36,4 +36,4 @@ Setelah satu pekan kita menguasai DOM menggunakan JavaScript, saatnya kita berkr
 </html>
 ```
 
-Ini merupakan tugas akhir dari Week 4. Mudah, bukan? Tapi disini kamu diberikan keleluasaan untuk berkreasi, karena ini bisa juga menjadi portfolio kamu!
+Ini merupakan tugas akhir dari Week 4. Mudah bukan? Tapi disini kamu diberikan keleluasaan untuk berkreasi, karena ini bisa juga menjadi portfolio kamu!
