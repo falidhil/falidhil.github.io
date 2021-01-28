@@ -2,7 +2,7 @@
 
 Tibalah di hari terakhir fase 0. Kamu akan ditantang untuk membuat final project web app apapun memanfaatkan topik DOM. Final Project ini paling lambat dikumpulkan pada hari Jum'at pukul 17:00 WIB agar kamu punya waktu luang untuk berkreasi dan mempersiapkan diri ke fase 1. Final Project sebagai syarat untuk student yang telah memenuhi final live code dan nilai tugas agar bisa masuk ke fase 1.
 
-# Berkreasi Membuat Web App dengan Memanfaatkan DOM
+## Berkreasi Membuat Web App dengan Memanfaatkan DOM
 
 Setelah satu pekan kita menguasai DOM menggunakan JavaScript, saatnya kita berkreasi membuat aplikasi web yang interaktif!
 
